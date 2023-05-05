@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "behat/behat": "^3.13",
+        "behat/mink-goutte-driver": "^2.0"
+    },
+    "require": {
+        "behat/mink-extension": "^2.3"
+    }
+}
